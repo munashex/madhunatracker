@@ -1,0 +1,94 @@
+.heading{
+  color: thistle;
+  margin-left: 70px;
+  filter: blur(2px);
+}
+input{
+  height: 30px;
+  margin-left: 90px;
+  border-radius: 10px;
+  color: cadetblue;
+}
+img{
+  position: relative;
+  height: 20px;
+  left: 10px;
+  bottom: 38px;
+}
+.crypto{
+  position: relative;
+  margin-left: 30px;
+  bottom: 80px;
+ 
+}
+
+.symbol{
+  position: relative;
+margin-left: 50px;
+bottom: 81px;
+}
+.prize{
+  position: relative;
+  left: 100px;
+  bottom: 118px;
+}
+.volume{
+position: relative;
+left: 180px;
+bottom: 155px;
+}
+.rank{
+  position: relative;
+  right: 20px;
+}
+.high{
+  position: relative;
+  left: 290px;
+  bottom: 194px;
+}
+
+.divider{
+margin-top: 120px;
+}
+.divider_two{
+  position: relative;
+  height: 0px;
+  bottom: 200px;
+}
+.returned{
+margin-bottom: -210px;
+}
+.app{
+  overflow-x: hidden;
+  scrollbar-color: chartreuse;
+}
+.pri{
+  position: relative;
+  left: 140px;
+  top: -10px;
+  color: cyan;
+
+}
+
+.coi{
+  position: relative;
+  left: 70px;
+  top: 30px;
+  color: cyan;
+}
+.vol{
+  position: relative;
+  left: 210px;
+  top: -48px;
+  color: cyan;
+}
+.hour{
+  position: relative;
+  left: 310px;
+  top: -87px;
+  color: cyan;
+}
+
+@media (min-width: 995px){
+ 
+}
