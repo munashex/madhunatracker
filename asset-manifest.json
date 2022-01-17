@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/madhunatracker/static/css/main.7d42de3e.css",
+    "main.js": "/madhunatracker/static/js/main.995d5cf5.js",
+    "static/js/787.f3f42286.chunk.js": "/madhunatracker/static/js/787.f3f42286.chunk.js",
+    "index.html": "/madhunatracker/index.html",
+    "main.7d42de3e.css.map": "/madhunatracker/static/css/main.7d42de3e.css.map",
+    "main.995d5cf5.js.map": "/madhunatracker/static/js/main.995d5cf5.js.map",
+    "787.f3f42286.chunk.js.map": "/madhunatracker/static/js/787.f3f42286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d42de3e.css",
+    "static/js/main.995d5cf5.js"
+  ]
+}
